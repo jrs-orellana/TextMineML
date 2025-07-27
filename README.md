@@ -25,14 +25,11 @@ This project implements a complete text‑mining pipeline over academic articles
 ## 📁 Project Structure
 
 TextMineML/  
-├── data/         Raw input articles  
 ├── models/       Pretrained embeddings and models  
-├── notebooks/    Exploration and testing notebooks  
 ├── results/      Cleaned tables, vectors, clusters  
 ├── scripts/      Pipeline scripts  
 ├── figures/      Generated plots and visualizations  
 ├── README.md     Project overview and instructions  
-└── requirements.txt / environment.yml  
 
 ## 🧠 Pretrained Models
 
