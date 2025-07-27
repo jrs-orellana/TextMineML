@@ -66,16 +66,3 @@ Run the preprocessing, vectorization, clustering, and visualization scripts in s
 - Increase system memory or swap for large corpora  
 - Recreate the environment to fix dependency issues
 
-## 🤝 Contributing
-
-Fork the repo, create a branch, and submit a pull request.
-
-## 📝 License
-
-MIT License. See LICENSE for details.
-
-## 📬 Contact
-
-Julio Orellana‑Montes (<julio.orellana@upch.pe>)  
-Adrian Chalco‑Gonzalez (<adrian.chalco@upch.pe>)  
-
