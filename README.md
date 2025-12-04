@@ -55,7 +55,7 @@ Run the preprocessing, vectorization, clustering, and visualization scripts in s
 *Number of articles in each cluster*
 
 ![Word Cloud for Cluster 1](figures/basic/wordcloud.png)  
-*Word cloud visualization for cluster 1*
+*Word cloud visualization for clusters*
 
 ## Troubleshooting
 
